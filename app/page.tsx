@@ -5,19 +5,25 @@ const certifications = [
     title: "CompTIA A+",
     image: "/certs/comptia-a-plus.jpg",
     credlyUrl:
-      "https://www.credly.com/earner/earned/badge/bd89fd88-a0d2-4ae1-84d1-46654c62f6ec",
+      "https://www.credly.com/badges/bd89fd88-a0d2-4ae1-84d1-46654c62f6ec/public_url",
   },
   {
     title: "CompTIA Network+",
     image: "/certs/comptia-network-plus.jpg",
     credlyUrl:
-      "https://www.credly.com/earner/earned/badge/400663e5-b334-47b5-b914-387da8f396a0",
+      "https://www.credly.com/badges/400663e5-b334-47b5-b914-387da8f396a0/public_url",
   },
   {
     title: "CompTIA Security+",
     image: "/certs/comptia-security-plus.jpg",
     credlyUrl:
       "https://www.credly.com/badges/84c216c0-cb8f-4f6a-82b9-45ba4d543323/public_url",
+  },
+  {
+    title: "Google Cyber Security Certification",
+    image: "/certs/googleCyberSecurity.png",
+    credlyUrl:
+      "https://www.credly.com/badges/fa020190-8501-4bcf-be7c-0d2babfae167",
   },
 ];
 
