@@ -46,7 +46,7 @@ const programmingProjects = [
     tech: "Next.js, TypeScript, Tailwind CSS",
     image: "/projects/it-troubleshooting-assistant.png",
     githubUrl: "https://github.com/rcarpino/it-troubleshooting-assistant",
-    demoUrl: "it-troubleshooting-assistant-b5d8rc3k2-carpino82-5165s-projects.vercel.app",
+    demoUrl: "https://it-troubleshooting-assistant.vercel.app/",
   },
   {
     title: "Help Desk Ticket Simulator",
