@@ -53,9 +53,9 @@ const programmingProjects = [
     description:
       "A simulated support ticket workflow project for ticket intake, priority assignment, issue tracking, and support process visualization.",
     tech: "React, TypeScript, Tailwind CSS",
-    image: "/projects/help-desk-ticket-simulator.jpg",
-    githubUrl: "https://github.com/",
-    demoUrl: "#",
+    image: "/projects/help-desk-simulator.png",
+    githubUrl: "https://github.com/rcarpino/help-desk-ticket-simulator",
+    demoUrl: "https://help-desk-ticket-simulator.vercel.app/",
   },
   {
     title: "Python Automation Tools",
